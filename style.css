@@ -1,0 +1,31 @@
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(0, 128, 0, 0.123);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 50%;
+    right: 50%;
+    transform: translate(50%,50%);
+}
+h4{
+    top: 0;
+}
+.inputbox1{
+    height: 400px;
+    width: 400px;
+   
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 150px;
+    right: 50%;
+    transform: translate(50%,50%);
+}
+button{
+    background: #15c46c;
+    color: aliceblue;
+}
